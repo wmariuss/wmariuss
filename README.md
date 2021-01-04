@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey :wave:
 
 My name is Marius Stanca, and I am passionate Software Engineer, mostly on DevOps side, with 8+ years of building things to solve different problems.
 
