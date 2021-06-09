@@ -1,8 +1,8 @@
 ### Hey! I'm [@wmarius](https://github.com/wmariuss) (Marius Stanca) :wave:
 
-I am Software Engineer from Romania. :ro:
+I am Software Engineer from Romania. 🇷🇴
 
-I currently live in Bucharest, Romania. :ro:
+I currently live in Bucharest, Romania. 🇷🇴
 
 I like to build things with Cloud (AWS, GCP), SQL & NoSQL databases, containers and container orchestration (Kubernetes), Python, CI/CD (Gitlab CI, Tekton), modern backend APIs, automation tools (Saltstack, Terraform, Pulumi).
 
