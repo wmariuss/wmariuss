@@ -6,7 +6,7 @@ I currently live in Bucharest, Romania. 🇷🇴
 
 I like to build things with Cloud, SQL & NoSQL databases, containers and container orchestration, CI/CD, modern backend APIs, automation tools, microservices and nanoservices.
 
-I'm currently working in building DevOps tools and services that brings fast delivery, good quality and reliability for a software product.
+I'm currently working in building DevOps tools and services that brings fast delivery, high quality and reliability for a software product.
 
 You can find me:
 
