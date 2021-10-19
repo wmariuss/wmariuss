@@ -4,7 +4,7 @@ I am Software Engineer from Romania. 🇷🇴
 
 I currently live in Bucharest, Romania. 🇷🇴
 
-I like to build things with Cloud (AWS, GCP), SQL & NoSQL databases, containers and container orchestration (Kubernetes), Python, CI/CD (Gitlab CI, Tekton), modern backend APIs, automation tools (Saltstack, Terraform, Pulumi).
+I like to build things with Cloud, SQL & NoSQL databases, containers and container orchestration, CI/CD, modern backend APIs, automation tools, microservices and nanoservices.
 
 I'm currently working in building DevOps tools and services that brings fast delivery, good quality and reliability for a software product.
 
