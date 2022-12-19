@@ -15,4 +15,5 @@ You can find me:
 * [Github as @wmariuss (you are here)](https://github.com/wmariuss)
 * [Gitlab as @smarius](https://gitlab.com/smarius)
 * [Linkedin](https://www.linkedin.com/in/wmariuss/)
+* [Medium](https://medium.com/@wmariuss)
 * [Dev.to](https://dev.to/wmariuss)
