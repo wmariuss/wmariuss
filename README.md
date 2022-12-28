@@ -13,7 +13,7 @@ You can find me:
 * [My website: marius.xyz](https://marius.xyz)
 * [Twitter as @wmariuss](https://twitter.com/wmariuss)
 * [Github as @wmariuss (you are here)](https://github.com/wmariuss)
-* [Gitlab as @smarius](https://gitlab.com/smarius)
+* [Gitlab as @smarius](https://gitlab.com/wmariuss)
 * [Linkedin](https://www.linkedin.com/in/wmariuss/)
 * [Medium](https://medium.com/@wmariuss)
 * [Dev.to](https://dev.to/wmariuss)
