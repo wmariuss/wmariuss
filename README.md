@@ -1,12 +1,8 @@
 ### Hey! I'm [@wmarius](https://github.com/wmariuss) (Marius Stanca) :wave:
 
-I am Software Engineer from Romania. 🇷🇴
+I am Software Engineer with 9+ experience, mostly focus on DevOps, Platform Engineering and Site Reliability Engineering in different areas such as Security, Telecom and Financial.
 
-I currently live in Bucharest, Romania. 🇷🇴
-
-I like to build things with Cloud, SQL & NoSQL databases, containers and container orchestration, CI/CD, modern backend APIs, automation tools, microservices and nanoservices.
-
-I'm currently working in building DevOps tools and services that brings fast delivery, high quality and reliability for a software product.
+I currently live in Bucharest, Romania. 🇷🇴 and currently working in building DevOps tools and services that brings fast delivery, high quality and reliability for a software product.
 
 You can find me:
 
