@@ -2,7 +2,9 @@
 
 I am Software Engineer with 9+ experience, mostly focus on DevOps, Platform Engineering and Site Reliability Engineering in different areas such as Security, Telecom and Financial.
 
-I currently live in Bucharest, Romania. 🇷🇴 and currently working in building DevOps tools and services that brings fast delivery, high quality and reliability for a software product.
+I currently live in Bucharest, Romania. 🇷🇴.
+
+I am currently working in building DevOps tools and services that brings fast delivery, high quality and reliability for a software product.
 
 You can find me:
 
