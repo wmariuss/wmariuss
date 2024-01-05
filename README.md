@@ -1,4 +1,4 @@
-### Hey! I'm [@wmarius](https://github.com/wmariuss) (Marius Stanca) :wave:
+### Hey! I'm [@wmariuss](https://github.com/wmariuss) (Marius Stanca) :wave:
 
 I am Software Engineer with 9+ experience, mostly focus on DevOps, Platform Engineering and Site Reliability Engineering in different areas such as Security, Telecom and Financial.
 
