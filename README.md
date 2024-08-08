@@ -1,10 +1,6 @@
 ### Hey! I'm [@wmariuss](https://github.com/wmariuss) (Marius Stanca) :wave:
 
-I am Software Engineer with 9+ experience, mostly focus on DevOps, Platform Engineering and Site Reliability Engineering in different areas such as Security, Telecom and Financial.
-
-I currently live in Bucharest, Romania. 🇷🇴.
-
-I am currently working in building DevOps tools and services that brings fast delivery, high quality and reliability for a software product.
+My expertise is rooted in Continuous Integration and Delivery/Deployment, Backend Development, and Cloud Computing, with a relentless focus on driving innovation, efficiency, security, and reliability in software development and operations. I leverage my technical acumen to bridge the gap between development and operations, ensuring seamless collaboration, and fostering a culture of continuous improvement and learning.
 
 You can find me:
 
